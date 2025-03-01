@@ -5,7 +5,25 @@ body{
     color:violet;
     
 }
-
+.apa{
+    background-color:rgb(230, 19, 124);
+            color:rgb(0, 0, 0);
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+            border-top: 1px solid rgb(196, 202, 255);
+}
+.mapa{
+    color:fuchsia;
+}
+        #footer{
+            background-color:rgb(255, 255, 255);
+            color:rgb(0, 0, 0);
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+            border-top: 1px solid rgb(196, 202, 255);
+        }
 
  
   
